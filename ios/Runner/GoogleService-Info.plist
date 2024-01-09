@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDW_s2JcO5vTQoXhkQGF3pIEh8pmWhopPw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>106231691628</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.projetv2</string>
+	<key>PROJECT_ID</key>
+	<string>version2projet</string>
+	<key>STORAGE_BUCKET</key>
+	<string>version2projet.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:106231691628:ios:58ba9561440067a8051b49</string>
+	<key>DATABASE_URL</key>
+	<string>https://version2projet-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
